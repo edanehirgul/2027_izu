@@ -1,0 +1,8 @@
+#Derlenmiş dosyaların bulunduğu klasör
+bin /
+
+#Text dosyaları
+    *.txt
+
+#Mac sistem dosyaları
+         .DS_Store
